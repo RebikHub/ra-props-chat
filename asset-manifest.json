@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-props-chat/static/css/main.d7d847aa.css",
+    "main.js": "/ra-props-chat/static/js/main.7e97cce0.js",
+    "index.html": "/ra-props-chat/index.html",
+    "main.d7d847aa.css.map": "/ra-props-chat/static/css/main.d7d847aa.css.map",
+    "main.7e97cce0.js.map": "/ra-props-chat/static/js/main.7e97cce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d847aa.css",
+    "static/js/main.7e97cce0.js"
+  ]
+}
