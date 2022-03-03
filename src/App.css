@@ -212,3 +212,26 @@ body {
   clear: both;
   height: 0;
 }
+
+.fa {
+  display: flex;
+}
+
+.fa-circle {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 3px;
+}
+
+.dot-one {
+  background-color: #86BB71;
+}
+
+.dot-two {
+  background-color: #86bb71a3;
+}
+
+.dot-three {
+  background-color: #86bb7138;
+}
