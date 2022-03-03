@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bc82orj4mvfxkj7p/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/re-props-chat/branch/master)
 
 [История чата](https://rebikhub.github.io/ra-props-chat/)
 
