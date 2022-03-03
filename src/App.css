@@ -171,6 +171,10 @@ body {
   color: #75b1e8;
 }
 
+.chat-history > ul {
+  list-style: none;
+}
+
 .online, .offline, .me {
   margin-right: 3px;
   font-size: 10px;
